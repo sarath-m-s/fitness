@@ -2,7 +2,7 @@
   "name": "Sarath — Transformation Plan",
   "short_name": "Transform",
   "description": "Fitness dashboard, workout tracking, and weight progress",
-  "start_url": "./fitness_dashboard.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",

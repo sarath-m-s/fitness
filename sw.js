@@ -1,5 +1,5 @@
-const CACHE = 'fitness-dashboard-v3';
-const SHELL = './fitness_dashboard.html';
+const CACHE = 'fitness-dashboard-v4';
+const SHELL = './index.html';
 const ASSETS = [
   SHELL,
   './manifest.json',
